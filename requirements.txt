@@ -1,0 +1,5 @@
+langchain_gemini
+langchain_core
+langchain_community
+langgraph
+ipykernel
